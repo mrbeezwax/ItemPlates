@@ -7,7 +7,7 @@ public final class ItemPlates extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+        System.out.println("ItemPlates Enabled");
     }
 
     @Override

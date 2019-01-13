@@ -1,0 +1,5 @@
+name: ItemPlates
+version: ${project.version}
+main: io.github.mrbeezwax.itemplates.ItemPlates
+api-version: 1.13
+authors: [mrbeezwax]

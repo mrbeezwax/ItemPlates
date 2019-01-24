@@ -10,5 +10,8 @@ Grant players the ability to select pressure plates and designate what items and
 - Edit pressure plate by typing a command and selecting it
 - Configuration options using config.yml
 
+### Future Releases
+- Craftable Pressure Plates
+
 ### Contact
 Got questions, suggestions, or want a plugin created? Add me on Discord and direct message me @ **friendlynood#1531**

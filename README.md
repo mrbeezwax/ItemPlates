@@ -3,6 +3,7 @@
 ## A Minecraft Spigot Plugin that adds Item-specific Pressure Plates - Works with Minecraft 1.13+
 
 ### Description
+Grant the players the ability to select pressure plates and designate what items and how many will trigger them. Edit config.yml to blacklist certain items.
 
 ### Features
 

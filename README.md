@@ -10,7 +10,7 @@ Grant players the ability to select pressure plates and designate what items and
 - Edit pressure plate by typing a command and selecting it
 - Configuration options using config.yml
 
-### Future Releases
+### Future Features
 - Craftable pressure plates
 
 

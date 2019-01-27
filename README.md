@@ -7,7 +7,7 @@ Grant players the ability to select pressure plates and designate what items wil
 
 ### Features
 - Pressure plates activated by specific items
-- Edit pressure plate by typing a command and selecting it
+- Edit pressure plate by typing a command, selecting it, and editing the pop-up GUI
 - Configuration options using config.yml
 
 ### Future Features

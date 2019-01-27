@@ -7,10 +7,15 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerDropItemEvent;
 
+import java.util.HashMap;
+import java.util.List;
+
 public class PressurePlateEvent implements Listener {
+    private final HashMap<Integer, List<Item>> CUSTOM_PLATES;
 
     public PressurePlateEvent(ItemPlates plugin) {
         plugin.getServer().getPluginManager().registerEvents(this, plugin);
+        CUSTOM_PLATES = new HashMap<>();
     }
 
     @EventHandler
